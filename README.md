@@ -12,8 +12,14 @@ Try it live on **Hugging Face Spaces → https://huggingface.co/spaces/ThatITGuy
 
 ![WhatsApp Image 2025-06-23 at 21 28 01_59cb12d1](https://github.com/user-attachments/assets/3ffb7ca2-3692-459c-aefd-2c3f23c4187b)
 
+---
+
+## Architecture of the app
+
+![image](https://github.com/user-attachments/assets/7e46ad26-88da-4c94-880b-4ceee45c4d51)
 
 ---
+
 
 ## 🔑 Key Features
 
