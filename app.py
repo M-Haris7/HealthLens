@@ -57,6 +57,7 @@ iface = gr.Interface(
 )
 
 if __name__ == "__main__":
-    iface.launch(debug=True)
+    port = int(os.environ.get("PORT", 7860))
+    iface.launch(server_name="0.0.0.0", server_port=port, share=False, debug=False)
 
 # http://127.0.0.1:7860
