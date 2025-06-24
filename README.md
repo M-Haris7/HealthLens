@@ -9,6 +9,7 @@
 ## ✨ Demo
 
 Try it live on **Hugging Face Spaces → https://huggingface.co/spaces/ThatITGuy/AI-medical-chatbot**
+If the above link doesn't work try **→ https://web-production-533df.up.railway.app/**
 
 ![WhatsApp Image 2025-06-23 at 21 28 01_59cb12d1](https://github.com/user-attachments/assets/3ffb7ca2-3692-459c-aefd-2c3f23c4187b)
 
